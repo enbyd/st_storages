@@ -78,7 +78,7 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - **Extra features:** One of the provided versions has chunkloader included. The basic version just sorts, with no extra features.
 - **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator.
 - [**DOWNLOAD LINKS**](Downloads/Multi%20Item%20Sorting/Compact%20Categorizer%20(1.19%2B))
-- [**Help thread:**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
+- [**Help thread**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
 - [**Archive post**](https://discord.com/channels/748542142347083868/833152072618606652/1446351354938265721)
 - [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
