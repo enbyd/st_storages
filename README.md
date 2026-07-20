@@ -269,7 +269,7 @@ The hopper next to ice must be set as shown, with at least a sample of the item 
 - **testing and known issues:** No known issues. Tested by the creator.
 - [**WORLD DOWNLOAD**](Downloads/Multi%20Item%20Sorting%20%2B%20Bulk/J-M-IS%20v3%20(1.16%2B)/J-M-IS%20v3.01%20World%20Download%20(1.16%2B).zip)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
-- [**Latest update)**](https://discord.com/channels/748542142347083868/1182780067164717197/1234329599840751638)
+- [**Latest update**](https://discord.com/channels/748542142347083868/1182780067164717197/1234329599840751638)
 - [**Original post (08/12/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1182780067164717197)
 
 ## [1.19+] YAMIS
